@@ -21,7 +21,7 @@
 		{ "type": "integer", "index": 1, "name": "L6" },
 		{ "type": "integer", "index": 1, "name": "L7" },
 		{ "type": "integer", "index": 1, "name": "L8" },
-		{ "type": "integer", "index": 1, "name": "L9" },
+		{ "type": "integer", "index": 1, "name": "L9" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 17, "end": 32 }
