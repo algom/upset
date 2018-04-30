@@ -1,0 +1,22 @@
+{
+	"file": "https://raw.githubusercontent.com/algom/upset/master/Taylor_aa_text.txt",
+	"name": "Taylor",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "aa" },
+		{ "type": "integer", "index": 1, "name": "Polar" },
+		{ "type": "integer", "index": 1, "name": "Hydrophobic" },
+		{ "type": "integer", "index": 1, "name": "Small" },
+		{ "type": "integer", "index": 1, "name": "Tiny" },
+		{ "type": "integer", "index": 1, "name": "Charged" },
+		{ "type": "integer", "index": 1, "name": "Negative" },
+		{ "type": "integer", "index": 1, "name": "Positive" },
+		{ "type": "integer", "index": 1, "name": "Aromatic" },
+		{ "type": "integer", "index": 1, "name": "Aliphatic" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 3, "end": 11 }
+	]
+}
